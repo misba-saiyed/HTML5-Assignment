@@ -1,0 +1,26 @@
+.wrapper{
+    display: grid;
+    grid-template-columns: 100px 100px 100px;
+    gap: 10px;
+    background-color:rgb(78, 76, 76);
+    color: #fff;
+   
+}
+h1{
+    background-color:rgb(78, 76, 76);
+    color: aliceblue;
+    height: min-content;
+}
+
+
+
+
+.box{
+
+    background-color:rgb(78, 76, 76);
+    color: #fff;
+    border-radius: 5px;
+    padding: 20px;
+    font-size: 150%;
+}
+
